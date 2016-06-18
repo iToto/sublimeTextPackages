@@ -9,7 +9,7 @@ My installed packages for ST3.
 2. Symlink to your Installed Packages folder
 
     ```sh
-    $ mv Installed\ Packages Installed\ Packages_backup
     $ cd  ~/Library/Application\ Support/Sublime Text 3
+    $ mv Installed\ Packages Installed\ Packages_backup
     $ ln -s [PATH_TO_CLONES_REPOSITORY] Installed\ Packages
     ```
